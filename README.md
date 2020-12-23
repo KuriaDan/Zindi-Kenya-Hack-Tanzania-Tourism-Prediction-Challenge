@@ -7,4 +7,4 @@ The objective of this hackathon was to develop a machine learning model to predi
 
 The full problem statement can be found on the [competition](https://zindi.africa/hackathons/kenya-hack-tanzania-tourism-prediction-challenge) page.
 
-![Leaderboard](https://github.com/KuriaDan/Zindi-Kenya-Hack-Tanzania-Tourism-Prediction-Challenge/blob/master/Capture.PNG)
+![](https://github.com/KuriaDan/Zindi-Kenya-Hack-Tanzania-Tourism-Prediction-Challenge/blob/master/Capture.PNG)
